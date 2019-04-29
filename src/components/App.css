@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+  background-image: linear-gradient(to right top, #d16ba5, #c56bb3, #b56ec1, #9f72ce, #8277d9, #6986e7, #4995f2, #00a2f9, #00bbff, #00d2ff, #00e8fa, #5ffbf1);
+  height: 660px;
+}
+
+
+.list-app-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 40px;
+}
+.navv{
+  padding-top: 34px;
+  display: flex !important;
+  justify-content: space-around !important;
+  width: 37%;
+  margin-left: 29%;
+}
+.home{
+  color:  #D16BA5 !important;
+  font-weight: bold !important;
+  font-size: 20px !important;
+}
+.button{
+  background-color: #D16BA5 !important;
+  border: transparent !important;
+  border-radius: 20px !important;
+}
+.button-modal{
+display: flex !important;
+justify-content: space-around !important;
+
+}
+.button-modal1{
+  width: 269%;
+  background-color: #86A8E7 !important;
+  border: transparent !important;
+}
+.button-modal2{
+  width: 15%;
+  background-color: rgb(170, 160, 160) !important;
+  border: transparent !important;
+}
+.button-card1{
+  width: 35% !important;
+  background-color: #86A8E7 !important;
+  border: transparent !important;
+}
+.button-card2{
+  width: 35% !important;
+  background-color: rgb(170, 160, 160) !important;
+  border: transparent !important;
+}
+.home-component{
+  margin-top: 130px;
+  
+  font-size: 75px;
+  color: #8FEEE8;
+}
+.image{
+  width: 52% !important;
+  height: 140px;
+  margin-left: 25% !important;
+  margin-top: 23px !important;
+}
